@@ -1,5 +1,5 @@
 export const mtn = [
-    { value:1,
+    { value: 118,
     option: "500mb Mtn = 125 30 days" },
     { value:2,
     option: "1gb mtn = 250 30 days" },
