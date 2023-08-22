@@ -5,14 +5,14 @@ export const data = [
   },
   {
     network: "Glo",
-    value: 2
+    value: 4
   },
   {
     network: "Airtel",
-    value: 3
+    value: 2
   },
   {
     network: "9mobile",
-    value: 4
+    value: 3
   }
 ]
